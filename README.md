@@ -19,6 +19,19 @@
 <a href="https://discord.com/invite/PeQFpMcY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dev3434patel" height="30" width="40" /></a>
 <a href="https://codepen.io/dev3434patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev3434patel" height="30" width="40" /></a>
 
+<a href="https://instagram.com/dev_patel_34" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
+
+<a href="https://linkedin.com/in/dev-patel-designer" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+
+<a href="https://youtube.com/@mrgamerdev343?si=v8Rsrt-KqV1dIsCB" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
+
+<a href="https://twitter.com/devpatel_34" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="30" width="30" /></a>
+
+<a href="https://codepen.io/dev3434patel" target="_blank"><img align="center" src="https://img.icons8.com/windows/48/000000/codepen.png" alt="CodePen" height="30" width="30" /></a>
+
+<a href="https://discord.com/users/dev3434patel" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="30" width="30" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
