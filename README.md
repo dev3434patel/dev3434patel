@@ -11,11 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dev3434patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev3434patel" height="30" width="40" /></a>
-<a href="https://twitter.com/devpatel_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel_34" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-patel-designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-patel-designer" height="30" width="40" /></a>
+
 <a href="https://instagram.com/dev_patel_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_patel_34" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-patel-designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-patel-designer" height="30" width="40" /></a>
 <a href="https://youtube.com/@mrgamerdev343?si=v8Rsrt-KqV1dIsCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgamerdev343" height="30" width="40" /></a>
+<a href="https://twitter.com/devpatel_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel_34" height="30" width="40" /></a>
+<a href="https://discord.com/invite/PeQFpMcY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dev3434patel" height="30" width="40" /></a>
+<a href="https://codepen.io/dev3434patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev3434patel" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
