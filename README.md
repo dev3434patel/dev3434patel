@@ -23,6 +23,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dev3434patel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dev3434patel" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev3434patel&show_icons=true&locale=en&layout=compact" alt="dev3434patel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev3434patel&show_icons=true&locale=en" alt="dev3434patel" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev3434patel&show_icons=true&locale=en&layout=compact" alt="dev3434patel" /></p>
 
