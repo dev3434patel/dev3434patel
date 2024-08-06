@@ -5,6 +5,8 @@
 
 - 📝 My Resume [https://devsresume.vercel.app/](https://devsresume.vercel.app/)
 
+- 📝 My E-Protfolio [https://devsresume.vercel.app/](https://deveportfolio.vercel.app/)
+
 - 📫 How to reach me **devpatelodmantis@gmail.com**
 
 - 📄 Know about my experiences [https://devecard.vercel.app/](https://devecard.vercel.app/)
