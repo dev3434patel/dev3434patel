@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/dev_patel_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_patel_34" height="30" width="40" /></a>
+<a href="https://instagram.com/_devvp2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_patel_34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-patel-designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-patel-designer" height="30" width="40" /></a>
 <a href="https://youtube.com/@mrgamerdev343?si=v8Rsrt-KqV1dIsCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgamerdev343" height="30" width="40" /></a>
 <a href="https://twitter.com/devpatel_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devpatel_34" height="30" width="40" /></a>
